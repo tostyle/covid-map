@@ -1,0 +1,23 @@
+{
+  "name": "covid-map",
+  "version": "1.0.0",
+  "description": "## 1. use https://createapp.dev/parcel to create parcel project",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rm dist/bundle.js",
+    "start": "parcel src/index.html",
+    "build-prod": "parcel build src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "csvtojson": "^2.0.10",
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "json2csv": "^5.0.0",
+    "leaflet": "^1.6.0"
+  }
+}

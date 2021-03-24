@@ -1,0 +1,310 @@
+{
+  "กทม": {
+    "thaiName": "กทม",
+    "engName": "Bangkok"
+  },
+  "อำนาจเจริญ": {
+    "thaiName": "อำนาจเจริญ",
+    "engName": "Amnat Charoen"
+  },
+  "อ่างทอง": {
+    "thaiName": "อ่างทอง",
+    "engName": "Ang Thong"
+  },
+  "บึงกาฬ": {
+    "thaiName": "บึงกาฬ",
+    "engName": "Bueng Kan"
+  },
+  "บุรีรัมย์": {
+    "thaiName": "บุรีรัมย์",
+    "engName": "Buriram"
+  },
+  "ฉะเชิงเทรา": {
+    "thaiName": "ฉะเชิงเทรา",
+    "engName": "Chachoengsao"
+  },
+  "ชัยนาท": {
+    "thaiName": "ชัยนาท",
+    "engName": "Chai Nat"
+  },
+  "ชัยภูมิ": {
+    "thaiName": "ชัยภูมิ",
+    "engName": "Chaiyaphum"
+  },
+  "จันทบุรี": {
+    "thaiName": "จันทบุรี",
+    "engName": "Chanthaburi"
+  },
+  "เชียงใหม่": {
+    "thaiName": "เชียงใหม่",
+    "engName": "Chiang Mai"
+  },
+  "เชียงราย": {
+    "thaiName": "เชียงราย",
+    "engName": "Chiang Rai"
+  },
+  "ชลบุรี": {
+    "thaiName": "ชลบุรี",
+    "engName": "Chonburi"
+  },
+  "ชุมพร": {
+    "thaiName": "ชุมพร",
+    "engName": "Chumphon"
+  },
+  "กาฬสินธุ์": {
+    "thaiName": "กาฬสินธุ์",
+    "engName": "Kalasin"
+  },
+  "กำแพงเพชร": {
+    "thaiName": "กำแพงเพชร",
+    "engName": "Kamphaeng Phet"
+  },
+  "กาญจนบุรี": {
+    "thaiName": "กาญจนบุรี",
+    "engName": "Kanchanaburi"
+  },
+  "ขอนแก่น": {
+    "thaiName": "ขอนแก่น",
+    "engName": "Khon Kaen"
+  },
+  "กระบี่": {
+    "thaiName": "กระบี่",
+    "engName": "Krabi"
+  },
+  "ลำปาง": {
+    "thaiName": "ลำปาง",
+    "engName": "Lampang"
+  },
+  "ลำพูน": {
+    "thaiName": "ลำพูน",
+    "engName": "Lamphun"
+  },
+  "เลย": {
+    "thaiName": "เลย",
+    "engName": "Loei"
+  },
+  "ลพบุรี": {
+    "thaiName": "ลพบุรี",
+    "engName": "Lopburi"
+  },
+  "แม่ฮ่องสอน": {
+    "thaiName": "แม่ฮ่องสอน",
+    "engName": "Mae Hong Son"
+  },
+  "มหาสารคาม": {
+    "thaiName": "มหาสารคาม",
+    "engName": "Maha Sarakham"
+  },
+  "มุกดาหาร": {
+    "thaiName": "มุกดาหาร",
+    "engName": "Mukdahan"
+  },
+  "นครนายก": {
+    "thaiName": "นครนายก",
+    "engName": "Nakhon Nayok"
+  },
+  "นครปฐม": {
+    "thaiName": "นครปฐม",
+    "engName": "Nakhon Pathom"
+  },
+  "นครพนม": {
+    "thaiName": "นครพนม",
+    "engName": "Nakhon Phanom"
+  },
+  "นครราชสีมา": {
+    "thaiName": "นครราชสีมา",
+    "engName": "Nakhon Ratchasima"
+  },
+  "นครสวรรค์": {
+    "thaiName": "นครสวรรค์",
+    "engName": "Nakhon Sawan"
+  },
+  "นครศรีธรรมราช": {
+    "thaiName": "นครศรีธรรมราช",
+    "engName": "Nakhon Si Thammarat"
+  },
+  "น่าน": {
+    "thaiName": "น่าน",
+    "engName": "Nan"
+  },
+  "นราธิวาส": {
+    "thaiName": "นราธิวาส",
+    "engName": "Narathiwat"
+  },
+  "หนองบัวลำภู": {
+    "thaiName": "หนองบัวลำภู",
+    "engName": "Nong Bua Lam Phu"
+  },
+  "หนองคาย": {
+    "thaiName": "หนองคาย",
+    "engName": "Nong Khai"
+  },
+  "นนทบุรี": {
+    "thaiName": "นนทบุรี",
+    "engName": "Nonthaburi"
+  },
+  "ปทุมธานี": {
+    "thaiName": "ปทุมธานี",
+    "engName": "Pathum Thani"
+  },
+  "ปัตตานี": {
+    "thaiName": "ปัตตานี",
+    "engName": "Pattani"
+  },
+  "พังงา": {
+    "thaiName": "พังงา",
+    "engName": "Phang Nga"
+  },
+  "พัทลุง": {
+    "thaiName": "พัทลุง",
+    "engName": "Phatthalung"
+  },
+  "พะเยา": {
+    "thaiName": "พะเยา",
+    "engName": "Phayao"
+  },
+  "เพชรบูรณ์": {
+    "thaiName": "เพชรบูรณ์",
+    "engName": "Phetchabun"
+  },
+  "เพชรบุรี": {
+    "thaiName": "เพชรบุรี",
+    "engName": "Phetchaburi"
+  },
+  "พิจิตร": {
+    "thaiName": "พิจิตร",
+    "engName": "Phichit"
+  },
+  "พิษณุโลก": {
+    "thaiName": "พิษณุโลก",
+    "engName": "Phitsanulok"
+  },
+  "พระนครศรีอยุธยา": {
+    "thaiName": "พระนครศรีอยุธยา",
+    "engName": "Phra Nakhon Si Ayutthaya"
+  },
+  "แพร่": {
+    "thaiName": "แพร่",
+    "engName": "Phrae"
+  },
+  "ภูเก็ต": {
+    "thaiName": "ภูเก็ต",
+    "engName": "Phuket"
+  },
+  "ปราจีนบุรี": {
+    "thaiName": "ปราจีนบุรี",
+    "engName": "Prachinburi"
+  },
+  "ประจวบคีรีขันธ์": {
+    "thaiName": "ประจวบคีรีขันธ์",
+    "engName": "Prachuap Khiri Khan"
+  },
+  "ระนอง": {
+    "thaiName": "ระนอง",
+    "engName": "Ranong"
+  },
+  "ราชบุรี": {
+    "thaiName": "ราชบุรี",
+    "engName": "Ratchaburi"
+  },
+  "ระยอง": {
+    "thaiName": "ระยอง",
+    "engName": "Rayong"
+  },
+  "ร้อยเอ็ด": {
+    "thaiName": "ร้อยเอ็ด",
+    "engName": "Roi Et"
+  },
+  "สระแก้ว": {
+    "thaiName": "สระแก้ว",
+    "engName": "Sa Kaeo"
+  },
+  "สกลนคร": {
+    "thaiName": "สกลนคร",
+    "engName": "Sakon Nakhon"
+  },
+  "สมุทรปราการ": {
+    "thaiName": "สมุทรปราการ",
+    "engName": "Samut Prakan"
+  },
+  "สมุทรสาคร": {
+    "thaiName": "สมุทรสาคร",
+    "engName": "Samut Sakhon"
+  },
+  "สมุทรสงคราม": {
+    "thaiName": "สมุทรสงคราม",
+    "engName": "Samut Songkhram"
+  },
+  "สระบุรี": {
+    "thaiName": "สระบุรี",
+    "engName": "Saraburi"
+  },
+  "สตูล": {
+    "thaiName": "สตูล",
+    "engName": "Satun"
+  },
+  "สิงห์บุรี": {
+    "thaiName": "สิงห์บุรี",
+    "engName": "Sing Buri"
+  },
+  "ศรีสะเกษ": {
+    "thaiName": "ศรีสะเกษ",
+    "engName": "Sisaket"
+  },
+  "สงขลา": {
+    "thaiName": "สงขลา",
+    "engName": "Songkhla"
+  },
+  "สุโขทัย": {
+    "thaiName": "สุโขทัย",
+    "engName": "Sukhothai (Sukhothai Thani)"
+  },
+  "สุพรรณบุรี": {
+    "thaiName": "สุพรรณบุรี",
+    "engName": "Suphan Buri"
+  },
+  "สุราษฎร์ธานี": {
+    "thaiName": "สุราษฎร์ธานี",
+    "engName": "Surat Thani"
+  },
+  "สุรินทร์": {
+    "thaiName": "สุรินทร์",
+    "engName": "Surin"
+  },
+  "ตาก": {
+    "thaiName": "ตาก",
+    "engName": "Tak"
+  },
+  "ตรัง": {
+    "thaiName": "ตรัง",
+    "engName": "Trang"
+  },
+  "ตราด": {
+    "thaiName": "ตราด",
+    "engName": "Trat"
+  },
+  "อุบลราชธานี": {
+    "thaiName": "อุบลราชธานี",
+    "engName": "Ubon Ratchathani"
+  },
+  "อุดรธานี": {
+    "thaiName": "อุดรธานี",
+    "engName": "Udon Thani"
+  },
+  "อุทัยธานี": {
+    "thaiName": "อุทัยธานี",
+    "engName": "Uthai Thani"
+  },
+  "อุตรดิตถ์": {
+    "thaiName": "อุตรดิตถ์",
+    "engName": "Uttaradit"
+  },
+  "ยะลา": {
+    "thaiName": "ยะลา",
+    "engName": "Yala"
+  },
+  "ยโสธร": {
+    "thaiName": "ยโสธร",
+    "engName": "Yasothon"
+  }
+}
